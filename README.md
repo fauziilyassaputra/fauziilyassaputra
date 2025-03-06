@@ -1,5 +1,12 @@
 -about me:
-- user javascript and family
-- programmer beginner
+- MERN programmer beginner
+- want to learn artificial inteligence & gamedev
+- computer science
 
-----  html  ---- css  ----  tailwindcss ---- javascript ----  typescript  ---- reactjs ---- nextjs
+----  html  ---- 
+
+----  css  ----  tailwindcss  ----  heroui  ----  daisyui   ----  react-hot-toast  ----  realtime colors  ----
+
+---- javascript ----  typescript  ---- reactjs ---- nextjs  ---- expressjs  ----  nodejs  ---- 
+
+---- Mongodb  ----  mongoose  ----  postman  ----  vercel   ----   
